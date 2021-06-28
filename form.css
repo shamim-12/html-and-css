@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+html{
+    background-color: rebeccapurple;
+}
+.text1{
+    text-align: center;
+}
+
+.form1{
+    background-color: white;
+   border: solid;
+   margin: auto;
+   width: 40%;
+   height: auto;
+}
+
+#button1{
+background-color: darkolivegreen;
+}
+.txt{
+    color: darkred;
+}
+.input1{
+    width: 90%;
+    height:2rem ;
+}
+textarea{
+    width: 90%;  
+}
+
